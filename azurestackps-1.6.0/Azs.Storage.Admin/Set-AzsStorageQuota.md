@@ -60,7 +60,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-Posbbily modified storage quota returned by Get-AzsStorageQuota.
+Possibly modified storage quota returned by Get-AzsStorageQuota.
 
 ```yaml
 Type: StorageQuota
